@@ -6,7 +6,7 @@ HotelHub is a hotel booking website built using React and Firebase.
 
 https://hotelhub-d01cf.web.app
 - **Figma Wireframe:** https://www.figma.com/design/b1jGWrxYQiHhyHZymhOJ4f/HotelHub-Website-Wireframe.?node-id=0-1
-  presentation link https://zerotoolbox.com/screen-recorder
+  presentation link https://drive.google.com/file/d/12Vc5ZikRTTlC9c_4UbrQjxY6uqD4Gbm1/view?usp=sharing
 
 ## Features
 
