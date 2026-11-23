@@ -28,3 +28,8 @@ https://hotelhub-d01cf.web.app
 1. Clone this repository.
 2. Run `npm install`.
 3. Run `npm run dev`.
+
+## Project Links
+
+- **Live Website:** https://hotelhub-d01cf.web.app
+- **GitHub Repository:** https://github.com/itskhadra/hotelHub
